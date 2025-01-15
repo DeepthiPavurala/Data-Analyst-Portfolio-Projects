@@ -1,3 +1,4 @@
+## Data Cleansing
 CREATE TABLE clean_weekly_sales AS
 SELECT
   week_date,
